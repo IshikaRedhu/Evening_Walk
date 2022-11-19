@@ -1,0 +1,11 @@
+Model Information:
+* title:	Serena - Low Poly Character
+* source:	https://sketchfab.com/3d-models/serena-low-poly-character-8c5ebd6a05bd4afcbdbf9a6e5dfa1d13
+* author:	noisychain (https://sketchfab.com/noisychain)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Serena - Low Poly Character" (https://sketchfab.com/3d-models/serena-low-poly-character-8c5ebd6a05bd4afcbdbf9a6e5dfa1d13) by noisychain (https://sketchfab.com/noisychain) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
